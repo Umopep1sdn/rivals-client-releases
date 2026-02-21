@@ -1,0 +1,9 @@
+version: 0.7.5
+files:
+  - url: edu-rivals-client-setup.exe
+    sha512: l7IXLGOiUqQ0yzU5lQ0kD2vkG8rNxaUh7kGpvF8nZkzUjXofh5LzUHK2eXxYUKQNyRdsdZtuLF0orbbp/mft4Q==
+    size: 85900649
+    isAdminRightsRequired: true
+path: edu-rivals-client-setup.exe
+sha512: l7IXLGOiUqQ0yzU5lQ0kD2vkG8rNxaUh7kGpvF8nZkzUjXofh5LzUHK2eXxYUKQNyRdsdZtuLF0orbbp/mft4Q==
+releaseDate: '2026-02-21T01:49:42.185Z'
